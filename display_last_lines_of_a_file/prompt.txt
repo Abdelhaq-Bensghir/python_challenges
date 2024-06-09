@@ -1,0 +1,1 @@
+Implement the functionality of the tail command in Python, which displays the last x lines of a text file
