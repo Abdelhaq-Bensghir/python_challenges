@@ -13,6 +13,6 @@
 
 #     result = [j for (j,k) in (l,lenghts) if k = max(lenghts)]
 
-# if __name__ == '__main__':
+# if __name__ == '__main__': #create in separate file
 #     input_string = 'abdb' #input('enter a string')
 #     longest_string(input_string)
